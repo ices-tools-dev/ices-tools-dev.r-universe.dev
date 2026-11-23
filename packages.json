@@ -22,5 +22,9 @@
   {
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher"
-  }  
+  },
+  {
+    "package": "ggplotFL",
+    "url": "https://github.com/flr/ggplotFL"
+  }
 ]

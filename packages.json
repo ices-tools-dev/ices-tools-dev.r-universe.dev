@@ -12,6 +12,10 @@
     "url": "https://github.com/ices-tools-dev/RDBESvisualise"
   },
   {
+    "package": "RDBESstockCoord",
+    "url": "https://github.com/ices-tools-dev/RDBESvisualise"
+  },
+  {
     "package": "sfdSAR",
     "url": "https://github.com/ices-tools-dev/sfdSAR"
   }

@@ -32,6 +32,10 @@
     "url": "https://github.com/flr/FLFishery"
   },
   {
+    "package": "FLfse",
+    "url": "https://github.com/flr/FLfse"
+  },
+  {
     "package": "stockassessment",
     "url": "https://github.com/fishfollower/SAM",
     "subdir": "stockassessment"

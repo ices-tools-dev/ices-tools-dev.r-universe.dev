@@ -18,5 +18,9 @@
   {
     "package": "FLCore",
     "url": "https://github.com/flr/FLCore"
+  },
+  {
+    "package": "FLasher",
+    "url": "https://github.com/flr/FLasher"
   }  
 ]

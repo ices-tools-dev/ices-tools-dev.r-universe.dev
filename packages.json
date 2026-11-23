@@ -33,7 +33,8 @@
   },
   {
     "package": "FLfse",
-    "url": "https://github.com/flr/FLfse"
+    "url": "https://github.com/flr/FLfse",
+    "subdir": "FLfse"
   },
   {
     "package": "stockassessment",

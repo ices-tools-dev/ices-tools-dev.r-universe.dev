@@ -26,5 +26,14 @@
   {
     "package": "ggplotFL",
     "url": "https://github.com/flr/ggplotFL"
+  },
+  {
+    "package": "FLFishery",
+    "url": "https://github.com/flr/FLFishery"
+  },
+  {
+    "package": "stockassessment",
+    "url": "https://github.com/fishfollower/SAM",
+    "subdir": "stockassessment"
   }
 ]
